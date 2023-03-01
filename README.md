@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jose-luis-casta%C3%B1eda-osornio-1362731ab/](https://www.linkedin.com/in/jose-luis-casta%C3%B1eda-osornio-1362731ab/)
 
-- 💬 Ask me about **Java,Javascript, React.js, Node.js, Back-end and Front-end**
+- 💬 Ask me about **Java,Javascript, React.js, Next.js,Node.js, Back-end and Front-end**
 
 - 📫 How to reach me **ing.castaneda.jluis@gmail.com**
 
