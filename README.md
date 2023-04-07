@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
 <h3 align="center">I am a passionate full-stack developer, from Puebla, México, I have developed in different languages ​​and frameworks, such as JAVA, Spring Boot, Javascript, Node.js, Express.js, React.js, Next.js, Python, PHP and Laravel.</h3>
 
-- 🔭 I’m currently working on ALTEN MÉXICO **E-COMMERCE**
+- 🔭 I’m currently working on  **ALTEN MÉXICO**
 
 - 🌱 I’m currently learning **mobile development with Flutter and i am learning frameworks like solid.js**
 
